@@ -1,1 +1,1 @@
-my first readme
+the project is on redirecions
